@@ -1,4 +1,6 @@
-import NavBar from "./NavBar";
+/** @format */
+
+// import NavBar from "./NavBar";
 // import { Link } from "react-router-dom";
 import ContactPage from "./ContactPage";
 export default function About() {
